@@ -1,5 +1,4 @@
 /* Written by Ryan Wilson */
-/* https://github.corp.dyndns.com/rwilson/Dove */
 (function($){
 	function Dove(settings){
 		var isDragging = false;
